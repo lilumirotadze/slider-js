@@ -3,25 +3,25 @@ let data = [
         id:1,
         imageUrl:'https://images.news18.com/ibnlive/uploads/2021/10/animal-day-16332888954x3.jpg',
         title:'Animals',
-        url: 'https://google.com'
+        url: 'https://www.youtube.com/watch?v=eEaZvEZye84'
     },
     {
         id:2,
         imageUrl:'https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/102783/s960_pexels-frans-van-heerden-802112.jpg',
         title:'Giraffe',
-        url: 'https://google.com'
+        url: 'https://www.youtube.com/watch?v=eEaZvEZye84'
     },
     {
         id:3,
         imageUrl:'https://www.oie.int/app/uploads/cache/2021/04/doruk-yemenici-frjamio-tb0-unsplash/3212795280.jpg',
         title:'Cows',
-        url: 'https://google.com'
+        url: 'https://www.youtube.com/watch?v=eEaZvEZye84'
     },
     {
         id:4,
         imageUrl: 'https://d.newsweek.com/en/full/1983028/stock-image-raccoon.jpg?w=466&h=311&f=24d43bf335f3ef249713edd85b97d184',
         title:'Enot',
-        url: 'https://google.com'
+        url: 'https://www.youtube.com/watch?v=eEaZvEZye84'
     }
 ]
 
